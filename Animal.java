@@ -8,8 +8,7 @@ class Cats extends Animals
 	@Override
 	void cats() {
 		// TODO Auto-generated method stub
-		System.out.println("Cats meow meow");
-	}
+		System.out.println("Cats meow meow");}
 	@Override
 	void dogs() {
 		// TODO Auto-generated method stub	
